@@ -1,4 +1,4 @@
-# hello-world
+# BruTech FrontEnd in Vue
 
 ## Project setup
 ```
